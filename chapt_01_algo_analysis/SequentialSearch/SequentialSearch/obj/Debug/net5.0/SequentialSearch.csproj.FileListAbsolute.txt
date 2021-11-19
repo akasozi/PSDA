@@ -1,0 +1,15 @@
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/bin/Debug/net5.0/SequentialSearch.deps.json
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/bin/Debug/net5.0/SequentialSearch.runtimeconfig.json
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/bin/Debug/net5.0/SequentialSearch.runtimeconfig.dev.json
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/bin/Debug/net5.0/SequentialSearch.dll
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/bin/Debug/net5.0/ref/SequentialSearch.dll
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/bin/Debug/net5.0/SequentialSearch.pdb
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.csproj.AssemblyReference.cache
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.AssemblyInfoInputs.cache
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.AssemblyInfo.cs
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.csproj.CoreCompileInputs.cache
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.dll
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/ref/SequentialSearch.dll
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.pdb
+/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/Debug/net5.0/SequentialSearch.genruntimeconfig.cache

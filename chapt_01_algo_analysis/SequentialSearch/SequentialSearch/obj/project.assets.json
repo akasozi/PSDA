@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abubizibu/Projects/PSDA/SequentialSearch/SequentialSearch/SequentialSearch.csproj",
+      "projectUniqueName": "/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/SequentialSearch.csproj",
       "projectName": "SequentialSearch",
-      "projectPath": "/Users/abubizibu/Projects/PSDA/SequentialSearch/SequentialSearch/SequentialSearch.csproj",
+      "projectPath": "/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/SequentialSearch.csproj",
       "packagesPath": "/Users/abubizibu/.nuget/packages/",
-      "outputPath": "/Users/abubizibu/Projects/PSDA/SequentialSearch/SequentialSearch/obj/",
+      "outputPath": "/Users/abubizibu/Projects/PSDA/chapt_01_algo_analysis/SequentialSearch/SequentialSearch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abubizibu/.config/NuGet/NuGet.Config"

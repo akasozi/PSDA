@@ -8,6 +8,10 @@ namespace SequentialSearch
         {
 
             Console.WriteLine("Hello World!");
+            int elem = 5;
+            int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            int index = SequentialSearch(arr, arr.Length, elem);
+            Console.WriteLine($"The element: {elem} was found in the index: {index}");
         }
 
         static int SequentialSearch(int[] arr, int size, int value) {

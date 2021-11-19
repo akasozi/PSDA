@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{5997FB0E-3794-45AC-BBA5-5BFC445D90C9}|Default">
-  <MonoDevelop.Ide.ItemProperties.SequentialSearch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SequentialSearch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SequentialSearch/Program.cs">
     <Files>
-      <File FileName="SequentialSearch/Program.cs" Line="9" Column="1" />
+      <File FileName="SequentialSearch/Program.cs" Line="14" Column="87" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
