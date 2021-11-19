@@ -1,0 +1,15 @@
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/bin/Debug/net5.0/SumArray.deps.json
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/bin/Debug/net5.0/SumArray.runtimeconfig.json
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/bin/Debug/net5.0/SumArray.runtimeconfig.dev.json
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/bin/Debug/net5.0/SumArray.dll
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/bin/Debug/net5.0/ref/SumArray.dll
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/bin/Debug/net5.0/SumArray.pdb
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.csproj.AssemblyReference.cache
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.AssemblyInfoInputs.cache
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.AssemblyInfo.cs
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.csproj.CoreCompileInputs.cache
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.dll
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/ref/SumArray.dll
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.pdb
+/Users/abubizibu/Projects/PSDA/SumArray/SumArray/obj/Debug/net5.0/SumArray.genruntimeconfig.cache
